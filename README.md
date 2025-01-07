@@ -1,7 +1,5 @@
 # SMS BOMBER TR V3
 
-Api eklendi ve tek dosya haline getirildi
-
 <h3>Kurulum</h3>
 
 ```console
