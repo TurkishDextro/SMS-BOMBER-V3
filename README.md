@@ -7,7 +7,7 @@ Api eklendi ve tek dosya haline getirildi
 ```console
 apt update & apt upgrade
 apt install git
-git clone https://github.com/allahnumberone/enough-V2.git
+git clone https://github.com/TurkishDextro/SMS-BOMBER-V3.git
 cd enough-V2
 python3 main.py
 ```
