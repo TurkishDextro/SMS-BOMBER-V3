@@ -8,13 +8,13 @@ Api eklendi ve tek dosya haline getirildi
 apt update & apt upgrade
 apt install git
 git clone https://github.com/TurkishDextro/SMS-BOMBER-V3.git
-cd enough-V2
-python3 main.py
+cd SMS-BOMBER-V3
+python3 bomb.py
 ```
 
 # One line version (kopyala yapıştır yaparsın direkt)
 ```console
-apt update & apt upgrade & apt install git & git clone https://github.com/TurkishDextro/smsbombertrv & cd enough-V2 & python3 main.py
+apt update & apt upgrade & apt install git & git clone https://github.com/TurkishDextro/smsbombertrv & cd SMS-BOMBER-V3 & python3 bomb.py
 ```
 
 Pip modullerini otomatik olarak eğer sizde indirilmediyse indirecektir tek yapmanınız gereken main.py'i çalıştırmak
